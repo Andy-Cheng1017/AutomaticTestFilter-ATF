@@ -46,3 +46,27 @@ Add insert thread to tighten screws at every hole in board.
 ![insert](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-06-11%2003.20.32.png)
 
 
+Motor chuck have completed design. it use 28 stepmotor to clamp test compontnents. 
+![chuck](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-25%2017.49.41.png)
+![chuck](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-25%2017.50.02.png)
+
+Use weights sensor to feedback the force on test compontnent 
+![weight](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-30%2013.38.47.png)
+
+X,Y axis use POM wheels to slide
+![POM](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-30%2013.39.09.png)
+
+Z axis design
+![Z](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-30%2013.39.30.png)
+
+To hide the pully, I cut the edge of aluminum extrusion
+![pully](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-30%2013.41.23.png)
+
+Change the frame size again, 560*500*490
+![frame](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-30%2016.09.14.png)
+
+The auto USB reciprocating device
+![USB](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-30%2016.55.43.png)
+
+Drill hole on extrusion to use lock each other
+![hole](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-08-11%2010.22.49.png)
