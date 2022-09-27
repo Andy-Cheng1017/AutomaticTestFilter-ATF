@@ -1,20 +1,20 @@
-AutomaticTestFilter-ATF 自動測試濾波器機台
-========================================
+# AutomaticTestFilter-ATF 自動測試濾波器機台
+
 This machine is for test fliter work, and the project is based on Openpnp
 
-2022/6/9 Log
----
-Build the frame for MSI GF63 laptop, the plane will use wood matrial to reduve the impact of EMI test.  
-The wood will drill holes to hold something on it. 
+## 2022/6/9 Log
 
-frame : 2040 V-slot aluminum extrusion 
+Build the frame for MSI GF63 laptop, the plane will use wood matrial to reduve the impact of EMI test.  
+The wood will drill holes to hold something on it.
+
+frame : 2040 V-slot aluminum extrusion
 
 plate : 20mm thick wood
 
 ![6/9](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-06-09%2015.29.12.png)
 
-2022/6/10 Log
----
+## 2022/6/10 Log
+
 Decide to use corexy motion system  
 ![corexy](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/6a9e99aeec0aafb9233e9deea945becb.jpg)
 
@@ -24,16 +24,15 @@ Put all pullies at right position
 Put all motors at right position， add x carriage to verify feasibility.  
 ![motors](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-06-10%2021.09.02.png)
 
-2022/6/11 Log
----
+## 2022/6/11 Log
 
 Build sticks to stick on components.  
 The tip of sticks is for fliter.  
 ![stick](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-06-11%2002.40.23.png)
 
-The stick in mechine 
+The stick in mechine
 
-Redesing the frame size, because the space not enough for testing laptop  
+Redesing the frame size, because the space not enough for testing laptop
 
 ![stick](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-06-11%2002.40.53.png)
 
@@ -41,16 +40,15 @@ Use this type of chuck
 
 ![chuck](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-06-11%2002.42.20.png)
 
-Add insert thread to tighten screws at every hole in board.  
+Add insert thread to tighten screws at every hole in board.
 
 ![insert](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-06-11%2003.20.32.png)
 
-
-Motor chuck have completed design. it use 28 stepmotor to clamp test compontnents. 
+Motor chuck have completed design. it use 28 stepmotor to clamp test compontnents.
 ![chuck](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-25%2017.49.41.png)
 ![chuck](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-25%2017.50.02.png)
 
-Use weights sensor to feedback the force on test compontnent 
+Use weights sensor to feedback the force on test compontnent
 ![weight](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-07-30%2013.38.47.png)
 
 X,Y axis use POM wheels to slide
@@ -70,3 +68,18 @@ The auto USB reciprocating device
 
 Drill hole on extrusion to use lock each other
 ![hole](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-08-11%2010.22.49.png)
+
+Finish Laser cutting of wood platform
+![platform](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220909_093249.jpg)
+
+Finish put threaded inserts into platform
+![threaded](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220909_093257.jpg)
+
+3D printing Corner parts
+![Corner](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220909_095941.jpg)
+
+Finish cutting aluminum extrusion
+![aluminum](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220922_085837.jpg)
+
+Complete building structure
+![structure](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220922_095055.jpg)
