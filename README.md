@@ -83,3 +83,15 @@ Finish cutting aluminum extrusion
 
 Complete building structure
 ![structure](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220922_095055.jpg)
+
+Finish Z&X axis sructure
+![ZX](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-10-04 10.48.49.png)
+
+Z axis back side
+![ZAxis](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-10-04 10.47.35.png)
+
+Top holder to fixed 4 rods
+![4Rods](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/2022-10-04 10.46.40.png)
+
+Render Whole machine
+![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/af768900-22e2-4597-92aa-3495d36290c9.PNG)
