@@ -95,3 +95,9 @@ Top holder to fixed 4 rods
 
 Render Whole machine
 ![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/af768900-22e2-4597-92aa-3495d36290c9.PNG)
+![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-56-07AM-000_CustomizedView4991560266.png)
+![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-54-18AM-000_CustomizedView7426167878_png.png)
+![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-53-53AM-000_CustomizedView9045329116_png.png)
+![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-53-36AM-000_CustomizedView18705061372_png.png)
+![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-53-10AM-000_CustomizedView5602162276_png.png)
+![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-51-59AM-000_CustomizedView5602162276_png.png)
