@@ -101,3 +101,20 @@ Render Whole machine
 ![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-53-36AM-000_CustomizedView18705061372_png.png)
 ![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-53-10AM-000_CustomizedView5602162276_png.png)
 ![Render](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/conbine_2022-Oct-04_10-51-59AM-000_CustomizedView5602162276_png.png)
+
+Assembly 1
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220922_085837%20(1).jpg)
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20220922_095055%20(1).jpg)
+
+Assembly 2
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221101_090129.jpg)
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221101_090135.jpg)
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221101_091314.jpg)
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221101_091530.jpg)
+
+Assembly 3
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221106_152703.jpg)
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221106_152708.jpg)
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221106_152714%20(1).jpg)
+![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221106_152714.jpg)
+
