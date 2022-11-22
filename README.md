@@ -128,7 +128,7 @@ Print parts
 
 New chuck
 ![](img\2022-11-22 09.27.31.png)
-![](img\2022-11-22 09.28.40.png)
+![](img/2022-11-22%2009.28.40.png)
 
 camera assembly
 ![](img\P_20221122_091947.jpg)
