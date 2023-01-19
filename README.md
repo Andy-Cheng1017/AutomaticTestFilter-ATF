@@ -119,21 +119,21 @@ Assembly 3
 ![Assembly](https://github.com/Andy-Cheng1017/AutomaticTestFilter-ATF/blob/main/img/P_20221106_152714.jpg)
 
 Cable connetion
-![Cable](img\P_20221122_091635.jpg)
+![Cable](img/P_20221122_091635.jpg)
 
 New version structure
-![](img\2022-11-22 09.27.44.png)
+![](img/2022-11-22 09.27.44.png)
 Print parts
-![](img\P_20221122_091712.jpg)
+![](img/P_20221122_091712.jpg)
 
 New chuck
-![](img\2022-11-22 09.27.31.png)
-![](img\2022-11-22%2009.28.40.png)
+![](img/2022-11-22 09.27.31.png)
+![](img/2022-11-22%2009.28.40.png)
 
 camera assembly
-![](img\P_20221122_091947.jpg)
-![](img\P_20221122_092009.jpg)
+![](img/P_20221122_091947.jpg)
+![](img/P_20221122_092009.jpg)
 
 CAMERA HLODER
-![](img\2023-01-19 09.20.21.png)
-![](img\2023-01-19 09.19.39.png)
+![](img/2023-01-19 09.20.21.png)
+![](img/2023-01-19 09.19.39.png)
