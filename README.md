@@ -122,12 +122,12 @@ Cable connetion
 ![Cable](img/P_20221122_091635.jpg)
 
 New version structure
-![](img/2022-11-22 09.27.44.png)
+![](img/2022-11-22_09.27.44.png)
 Print parts
 ![](img/P_20221122_091712.jpg)
 
 New chuck
-![](img/2022-11-22 09.27.31.png)
+![](img/2022-11-22_09.27.31.png)
 ![](img/2022-11-22%2009.28.40.png)
 
 camera assembly
@@ -135,5 +135,5 @@ camera assembly
 ![](img/P_20221122_092009.jpg)
 
 CAMERA HLODER
-![](img/2023-01-19 09.20.21.png)
-![](img/2023-01-19 09.19.39.png)
+![](img/2023-01-19_09.20.21.png)
+![](img/2023-01-19_09.19.39.png)
