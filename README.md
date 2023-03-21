@@ -140,7 +140,6 @@ CAMERA HLODER
 
 strain gauge
 ![](img/0bfchl652za81.png)
-<<<<<<< HEAD
 
 Openpnp
 ![](img/2023-03-21%2010.59.17.png)
@@ -148,5 +147,4 @@ Openpnp
 Test Vedio
 [](img/V_20221201_094059_ES0.mp4)
  
-=======
->>>>>>> 6acb934b6c19c7a1f17c0bbf3fbb287628ebe1e7
+
