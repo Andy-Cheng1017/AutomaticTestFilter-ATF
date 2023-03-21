@@ -137,3 +137,6 @@ camera assembly
 CAMERA HLODER
 ![](img/2023-01-19%2009.20.21.png)
 ![](img/2023-01-19%2009.19.39.png)
+
+strain gauge
+![](img/0bfchl652za81.png)
