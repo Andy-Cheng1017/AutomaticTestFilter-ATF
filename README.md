@@ -147,5 +147,11 @@ Openpnp
 
 Test Vedio
 ![](img/V_20221201_094059_ES0.mp4)
- 
+
+New Structure Assembled
+![](img\P_20230519_111332.jpg)
+![](img\P_20230519_111353.jpg)
+![](img\P_20230519_111414.jpg)
+
+Vedio
 
