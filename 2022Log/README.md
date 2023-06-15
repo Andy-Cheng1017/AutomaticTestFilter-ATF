@@ -75,44 +75,44 @@ Finish put threaded inserts into platform
 ![Corner](../img/P_20220909_095941.jpg)
 
 Finish cutting aluminum extrusion
-![aluminum](../ img/P_20220922_085837.jpg)
+![aluminum](../img/P_20220922_085837.jpg)
 
 Complete building structure
-![structure](../ img/P_20220922_095055.jpg)
+![structure](../img/P_20220922_095055.jpg)
 
 Finish Z&X axis sructure
-![ZX](../ img/2022-10-04%2010.48.49.png)
+![ZX](../img/2022-10-04%2010.48.49.png)
 
 Z axis back side
-![ZAxis](../ img/2022-10-04%2010.47.35.png)
+![ZAxis](../img/2022-10-04%2010.47.35.png)
 
 Top holder to fixed 4 rods
-![4Rods](../ img/2022-10-04%2010.46.40.png)
+![4Rods](../img/2022-10-04%2010.46.40.png)
 
 Render Whole machine
-![Render](../ img/af768900-22e2-4597-92aa-3495d36290c9.PNG)
-![Render](../ img/conbine_2022-Oct-04_10-56-07AM-000_CustomizedView4991560266.png)
-![Render](../ img/conbine_2022-Oct-04_10-54-18AM-000_CustomizedView7426167878_png.png)
-![Render](../ img/conbine_2022-Oct-04_10-53-53AM-000_CustomizedView9045329116_png.png)
-![Render](../ img/conbine_2022-Oct-04_10-53-36AM-000_CustomizedView18705061372_png.png)
-![Render](../ img/conbine_2022-Oct-04_10-53-10AM-000_CustomizedView5602162276_png.png)
-![Render](../ img/conbine_2022-Oct-04_10-51-59AM-000_CustomizedView5602162276_png.png)
+![Render](../img/af768900-22e2-4597-92aa-3495d36290c9.PNG)
+![Render](../img/conbine_2022-Oct-04_10-56-07AM-000_CustomizedView4991560266.png)
+![Render](../img/conbine_2022-Oct-04_10-54-18AM-000_CustomizedView7426167878_png.png)
+![Render](../img/conbine_2022-Oct-04_10-53-53AM-000_CustomizedView9045329116_png.png)
+![Render](../img/conbine_2022-Oct-04_10-53-36AM-000_CustomizedView18705061372_png.png)
+![Render](../img/conbine_2022-Oct-04_10-53-10AM-000_CustomizedView5602162276_png.png)
+![Render](../img/conbine_2022-Oct-04_10-51-59AM-000_CustomizedView5602162276_png.png)
 
 Assembly 1
-![Assembly](../ img/P_20220922_085837%20(../1).jpg)
-![Assembly](../ img/P_20220922_095055%20(../1).jpg)
+![Assembly](../img/P_20220922_085837%20(../1).jpg)
+![Assembly](../img/P_20220922_095055%20(../1).jpg)
 
 Assembly 2
-![Assembly](../ img/P_20221101_090129.jpg)
-![Assembly](../ img/P_20221101_090135.jpg)
-![Assembly](../ img/P_20221101_091314.jpg)
-![Assembly](../ img/P_20221101_091530.jpg)
+![Assembly](../img/P_20221101_090129.jpg)
+![Assembly](../img/P_20221101_090135.jpg)
+![Assembly](../img/P_20221101_091314.jpg)
+![Assembly](../img/P_20221101_091530.jpg)
 
 Assembly 3
-![Assembly](../ img/P_20221106_152703.jpg)
-![Assembly](../ img/P_20221106_152708.jpg)
-![Assembly](../ img/P_20221106_152714%20(../1).jpg)
-![Assembly](../ img/P_20221106_152714.jpg)
+![Assembly](../img/P_20221106_152703.jpg)
+![Assembly](../img/P_20221106_152708.jpg)
+![Assembly](../img/P_20221106_152714%20(../1).jpg)
+![Assembly](../img/P_20221106_152714.jpg)
 
 Cable connetion
 ![Cable](../img/P_20221122_091635.jpg)

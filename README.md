@@ -23,5 +23,10 @@ New Structure Assembled
 ![](img/P_20230519_111353.jpg)
 ![](im/P_20230519_111414.jpg)
 
-Vedio
+Because the org
 
+New Header
+![](img/2023-06-15%2013.17.04.png)
+
+Transmission structure
+![](img/2023-06-15%2013.18.52.png)
